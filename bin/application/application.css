@@ -1,0 +1,8 @@
+/* JavaFX CSS - Praca domowa nr 1 */
+
+.fieldstyle {
+	-fx-background-color:rgb(60%, 100%, 80%);
+  	-fx-text-fill:black;
+  	-fx-font-size:14px;
+}
+
